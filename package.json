@@ -1,0 +1,35 @@
+{
+  "name": "ngx-holder",
+  "version": "1.0.0",
+  "description": "An Angular directive for Holder,js",
+  "main": "holderjs.directive.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc *.ts",
+    "clean": "rm *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalilou88/ngx-holder.git"
+  },
+  "keywords": [
+    "Angular",
+    "Angular5",
+    "Angular 5",
+    "Angular4",
+    "Angular 4",
+    "Angular2",
+    "Angular 2",
+    "Angular.js",
+    "Angularjs",
+    "Holder.js",
+    "holderjs",
+    "holder"
+  ],
+  "author": "Khalil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khalilou88/ngx-holder.git/issues"
+  },
+  "homepage": "https://github.com/khalilou88/ngx-holder.git#readme"
+}
